@@ -1,0 +1,2 @@
+rootProject.name = 'minecraft-client'
+include 'launcher', 'core', 'hud', 'themes', 'profiles', 'modmanager', 'cosmetics', 'anticheat', 'chat', 'server'
